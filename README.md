@@ -1,4 +1,4 @@
-# 🖼️ LigthFrame
+# 🖼️ LightFrame
 
 ## 🌐 Acceso en línea
 Puedes usar la aplicación directamente desde la web:  
