@@ -1,4 +1,4 @@
-import Compressor from "./components/Compressor";
+import Compressor from "./components/compressor";
 
 function App() {
   return <Compressor />;
